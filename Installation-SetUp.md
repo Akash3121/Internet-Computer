@@ -38,7 +38,7 @@ sudo apt install build-essential
 
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-Setup ICP Environment 5️⃣
+### Setup ICP Environment 5️⃣
 
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 
