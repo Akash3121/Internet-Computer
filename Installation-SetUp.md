@@ -12,3 +12,6 @@ Check that you have the DFINITY execution command-line interface (CLI) installed
 dfx --version
 
 ## For Windows
+
+Watch this video: https://www.youtube.com/watch?v=ywE2PBNm9Jo
+
