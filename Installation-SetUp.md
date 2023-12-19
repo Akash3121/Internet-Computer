@@ -26,7 +26,7 @@ PowerShell-7.3.9-win-x86.msi
 
 wsl --install
 
-Installing NVM 3️⃣
+### Installing NVM 3️⃣
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
 
