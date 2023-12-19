@@ -22,7 +22,7 @@ Setup ICP environment with WSL2 Command List (commands used in the above video)
 PowerShell-7.3.9-win-x64.msi
 PowerShell-7.3.9-win-x86.msi
 
-WSL Installation 2️⃣
+### WSL Installation 2️⃣
 
 wsl --install
 
