@@ -1,7 +1,7 @@
 Setting up the development environment for IC
 Local Development Setup
 
-IC SDK is designed to work directly with Linux or macOS 12.
+IC SDK is designed to work directly with **Linux or macOS 12**.
 
 To install the Internet Computer Software Development Kit, run:
 
