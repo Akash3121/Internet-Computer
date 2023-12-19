@@ -17,7 +17,7 @@ Watch this video: https://www.youtube.com/watch?v=ywE2PBNm9Jo
 
 Setup ICP environment with WSL2 Command List (commands used in the above video)
 
-To download Powershell 1️⃣
+### To download Powershell 1️⃣
 
 PowerShell-7.3.9-win-x64.msi
 PowerShell-7.3.9-win-x86.msi
