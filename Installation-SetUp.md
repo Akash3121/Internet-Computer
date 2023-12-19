@@ -42,7 +42,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 
-*After completing all the steps, we suggest you run the following codes and restart the Ubuntu. 👇
+### After completing all the steps, we suggest you run the following codes and restart the Ubuntu. 👇
 
 sudo apt-get update -y 
 
